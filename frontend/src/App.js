@@ -44,7 +44,7 @@ function App() {
 
   return (
     <div>
-      <h1>Contact Manager</h1>
+      <h1>Contact Manager For Practive Git Merge Exo5</h1>
       <form onSubmit={handleSubmit}>
         <input
           type="text"
